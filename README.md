@@ -12,7 +12,7 @@
 <h1 align="center">🧠 2025 Generative AI Project Portfolio</h1>
 <p align="center">
   <b>by <a href="https://github.com/axionblast">@axionblast</a></b><br>
-  <i>Research & Engineering Projects in Generative AI · LLMs · Interpretability · Agentic Systems</i>
+  <i>Applied & Engineering Projects in Generative AI · LLMs · Interpretability · Agentic Systems</i>
 </p>
 
 ---
