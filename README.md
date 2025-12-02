@@ -28,18 +28,19 @@ Each project link points to fully-documented code within the same repository.
 
 | # | Project | Core Focus |
 |---|----------|-------------|
-| 1 | [Image Generation with Transformer and HITL Classifier](#1-image-generation-with-transformer-and-human-in-the-loop-classifier-hitl) | Vision · Transformer · HITL |
-| 2 | [AI Agent as a Data Scientist for Healthcare Risk Prediction](#2-ai-agent-as-a-data-scientist-for-healthcare-risk-prediction) | Autonomous ML Agent · Scikit-learn |
-| 3 | [Retrieval-Augmented Generation with Agentic System](#3-retrieval-augmented-generation-with-agentic-system) | RAG · Multi-Agent Coordination |
-| 4 | [Podcast Summarization via Whisper & Claude Sonnet 4](#4-multi-stage-podcast-audio-summarization-via-whisper--claude-sonnet-4) | ASR · Text Summarization |
-| 5 | [Quantitative Analysis of Toxicity and Bias in LLMs](#5-quantitative-analysis-of-toxicity-and-bias-in-llms) | Safety · Fairness · DPO |
-| 6 | [Token Attribution & Interpretability in NMT](#6-token-attribution--interpretability-in-neural-machine-translation) | Explainability · Saliency |
-| 7 | [LLMs Value Alignment via Direct Preference Optimization](#7-llms-value-alignment-via-direct-preference-optimization-dpo) | Alignment · LoRA · PEFT |
-| 8 | [Fine-tuning of Poetry Generation LLM](#8-fine-tuning-and-optimization-of-poetry-generation-llm) | Creative AI · Decoding |
-| 9 | [Fine-tuning of Personalized Marketing Ads LLM](#9-fine-tuning-of-personalized-marketing-ads-generation-llm) | NLP · Copywriting |
-| 10 | [Controllable Long-Form Summarization Prototype](#10-llm-based-controllable-long-form-summarization-prototype) | Gemini · GPT-4 |
-| 11 | [Gemini Prompt Optimization for Math Reasoning](#11-gemini-prompt-optimization-for-math-reasoning-tasks) | CoT · Evaluation |
-| 12 | [AI Quest NPC Multi-Turn Chatbot](#12-ai-quest-npc-with-multi-turn-dialogue-and-task-validation) | Dialogue System · Game Design |
+| 1 | [Image Generation with Transformer and HITL Classifier](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Image%20Generation%20with%20Transformer%20and%20Human-in-the-Loop%20Classifier%20(HITL).py) | Vision · Transformer · HITL |
+| 2 | [AI Agent as a Data Scientist for Healthcare Risk Prediction](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/AI%20Agent%20as%20a%20Data%20Scientist%20for%20Healthcare%20Risk%20Prediction.py) | Autonomous ML Agent · Scikit-learn |
+| 3 | [Retrieval-Augmented Generation with Agentic System](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Retrieval-Augmented%20Generation%20with%20Agentic%20System.py) | RAG · Multi-Agent Coordination |
+| 4 | [Podcast Summarization via Whisper & Claude Sonnet 4](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Multi-stage%20Podcast%20Audio%20Summarization%20.py) | ASR · Text Summarization |
+| 5 | [Quantitative Analysis of Toxicity and Bias in LLMs](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Quantitative%20Analysis%20of%20Toxicity%20and%20Bias%20in%20LLMs.py) | Safety · Fairness · DPO |
+| 6 | [Token Attribution & Interpretability in NMT](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Token%20Attribution%20%26amp%3B%20Interpretability%20Analysis%20in%20Neural%20Machine%20Translation.py) | Explainability · Saliency |
+| 7 | [LLMs Value Alignment via Direct Preference Optimization](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/LLMs%20Value%20Alignment%20via%20Direct%20Preference%20Optimization%20(DPO)%09.py) | Alignment · LoRA · PEFT |
+| 8 | [Fine-tuning of Poetry Generation LLM](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Fine-tuning%20and%20Optimization%20of%20Poetry%20Generation%20LLM%20.py) | Creative AI · Decoding |
+| 9 | [Fine-tuning of Personalized Marketing Ads LLM](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Personalized%20Marketing%20Ads%20Generation%20LLM.py) | NLP · Copywriting |
+| 10 | [Controllable Long-Form Summarization Prototype](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Long-Form%20Summarization%20Prototype.py) | Gemini · GPT-4 |
+| 11 | [Gemini Prompt Optimization for Math Reasoning](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Gemini%20Prompt%20Optimization%20for%20Math%20Reasoning%20Tasks.py) | CoT · Evaluation |
+| 12 | [AI Quest NPC Multi-Turn Chatbot](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/Role-Act%20NPC%20system%20interactive%20chatbot.py) | Dialogue System · Game Design |
+
 
 ---
 
