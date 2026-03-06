@@ -7,8 +7,7 @@ The goal is to explore how preference-labelled responses can shift a model's out
 ## Core Training Script
 
 The main implementation of the DPO alignment pipeline is located in:
-
-[LLMs Value Alignment via Direct Preference Optimization (DPO).py](./LLMs%20Value%20Alignment%20via%20Direct%20Preference%20Optimization%20(DPO).py)
+[LLMs Value Alignment via Direct Preference Optimization.py](https://github.com/axionblast/2025-8-GenAI-Proj-list/blob/main/LLMs%20Value%20Alignment%20via%20Direct%20Preference%20Optimization.py)
 
 This script includes:
 - dataset preprocessing
