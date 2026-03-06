@@ -74,8 +74,8 @@ for data in tqdm(test_data):
 
 #  Set parameters ### Modify this block
 
-num_epoch = 1 
-data_size = 50
+num_epoch = 1 # 2 in next attempt
+data_size = 50 # 500 in next attempt
 support_ratio = 0
 
 # support_ratio preference ratio for "realism support"; reflects your preference
