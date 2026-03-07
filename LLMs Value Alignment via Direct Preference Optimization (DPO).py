@@ -1,3 +1,26 @@
+# -----------------------------------------------------------
+# LLM Alignment Experiment using Direct Preference Optimization (DPO)
+#
+# Pipeline overview:
+# 1. Load a preference-labelled dataset containing prompts with
+#    "support" and "oppose" responses.
+# 2. Convert samples into DPO preference tuples (prompt, chosen, rejected).
+# 3. Fine-tune a Breeze-7B model using LoRA adapters with the TRL DPOTrainer.
+# 4. Compare responses from the base model and the aligned model
+#    on a held-out prompt set.
+#
+# The experiment also allows controlled tests by varying:
+# - data_size: number of training samples
+# - support_ratio: proportion of "support" labels
+# - num_epoch: number of training epochs
+# -----------------------------------------------------------
+
+# Install required libraries for transformer training and preference optimization
+# transformers: model loading and generation
+# bitsandbytes: memory-efficient 8-bit optimizer
+# datasets: dataset handling
+# peft: LoRA parameter-efficient fine-tuning
+# trl: reinforcement learning / DPO training utilities
 !pip install transformers
 !pip install bitsandbytes
 !pip install datasets
