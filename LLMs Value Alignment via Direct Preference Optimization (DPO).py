@@ -96,6 +96,12 @@ for data in tqdm(test_data):
     print(f"Response from original model:\n{output_text}\n")
 
 #  Set parameters ### Modify this block
+# Experiment control parameters
+# num_epoch: number of training passes over the dataset
+# data_size: number of samples used in the experiment
+# support_ratio: fraction of samples labeled as "support"
+# Changing these allows small alignment experiments
+# with different preference distributions.
 
 num_epoch = 1 # 2 in next attempt
 data_size = 50 # 500 in next attempt
